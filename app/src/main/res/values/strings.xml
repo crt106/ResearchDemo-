@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">科研项目测试</string>
+    <string name="测试权限获取">测试权限获取</string>
+    <string name="获取权限">获取权限</string>
+    <string name="获取位置">获取位置</string>
+    <string name="定位经纬度数据">位置数据</string>
+    <string name="服务器连接状态_已连接">已连接到服务器</string>
+    <string name="服务器连接状态_未连接">未连接到服务器</string>
+    <string name="TakePhoto">上传照片</string>
+    <string name="GetPhoto">获取照片</string>
+    <string name="ChoosePoI">选择POI</string>
+    <string name="ReTakePhoto">重新拍照</string>
+    <string name="UpLoadPhoto">上传</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="ChoosePoIandgetPhoto">选择POI并获取照片</string>
+
+    <!--以下是设置定位相关的字符串-->
+    <string name="定位模式">定位模式</string>
+    <string name="高精度">高精度模式</string>
+    <string name="低功耗">低功耗模式</string>
+    <string name="仅设备">仅设备</string>
+    <string name="坐标系">坐标系</string>
+    <string name="gcj02">国测局加密经纬度坐标系</string>
+    <string name="bd09ll">百度加密经纬度坐标系</string>
+    <string name="bd09">百度加密墨卡托坐标系</string>
+    <string name="定位时间间隔">定位时间间隔(ms)</string>
+    <string name="定位注意信息">以下参数会受到缓存影响 请注意</string>
+    <string name="位置语意">位置语意</string>
+    <string name="方向">方向</string>
+    <string name="DownloadPhoto">下载图片</string>
+</resources>
